@@ -37,6 +37,10 @@
    ```bash
    ./client
    ```
+## Demo
+Here is a demo video showing the layout with 4 streams and how placeholders are replaced with live streams when clients connect:
+
+![Demo Video](4streamsDemo.gif)
 
 ## Use Cases
 - Multi-camera surveillance setups with predefined layouts.
