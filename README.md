@@ -1,7 +1,7 @@
 
 # Watchwall
 
-**Watchwall** is a server-client application designed for managing multi-camera streaming with a fixed layout. The application ensures robust socket management and delivers an intuitive user experience tailored to setups requiring a specific number of streams.
+**Watchwall** is a server-client application designed for managing multi-camera streaming with a fixed layout. The application ensures socket management and delivers an intuitive user experience tailored to setups requiring a specific number of streams.
 
 ## Key Features
 - **Configurable Number of Streams**: Specify the exact number of cameras or clients at startup. The layout is fixed based on this number and cannot be adjusted after the server is launched.
