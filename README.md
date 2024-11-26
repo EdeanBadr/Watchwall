@@ -38,7 +38,7 @@
    ./client
    ```
 ## Demo
-Here is a demo video showing the layout with 4 streams and how placeholders are replaced with live streams when clients connect:
+Here is a demo video (sped up) showing the layout with 4 streams and how placeholders are replaced with live streams when clients connect:
 
 ![Demo Video](4streamsDemo.gif)
 
