@@ -31,7 +31,7 @@
    ```
 3. Launch the server, specifying the number of clients (e.g., 4):
    ```bash
-   ./watchwall --clients 4
+   ./watchwall 4
    ```
 4. Connect clients to the server:
    ```bash
